@@ -5,6 +5,8 @@ const port = process.env.PORT || 5000;
 
 const chefPortfolio = require('./data/chef_portfolio.json')
 
+const chefRecipe = require('./data/chef_recipe.json')
+
 app.use(cors());
 
 app.use(express.static('public'));
@@ -12,6 +14,10 @@ app.use(express.static('public'));
 app.get('/', (req, res)=>{
     res.send('Chef is running')
 
+})
+
+app.get('/chef_recipes', (req,res)=>{
+    res.send(chefRecipe)
 })
 
 app.get('/chef_portfolio', (req, res)=>{
