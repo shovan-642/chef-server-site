@@ -1,0 +1,312 @@
+[
+    {
+        "Chef_ID": 100,
+        "Recipes": [
+            {
+                "Recipe_ID": 1,
+                "Recipe_Name": "Creamy Carbonara",
+                "Ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Bacon", "Salt", "Black pepper"],
+                "Recipe_Method": "1. Boil spaghetti until al dente. 2. In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper. 3. Cook bacon until crispy. 4. Toss cooked pasta with egg mixture and bacon. 5. Serve hot.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 2,
+                "Recipe_Name": "Garlic Butter Shrimp",
+                "Ingredients": ["Shrimp", "Butter", "Garlic", "Lemon juice", "Parsley", "Salt"],
+                "Recipe_Method": "1. In a pan, melt butter and sauté garlic. 2. Add shrimp and cook until pink. 3. Squeeze lemon juice, sprinkle parsley, and salt. 4. Serve hot.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 3,
+                "Recipe_Name": "Chicken Alfredo",
+                "Ingredients": ["Chicken breast", "Fettuccine pasta", "Alfredo sauce", "Parmesan cheese", "Garlic", "Butter"],
+                "Recipe_Method": "1. Sauté chicken and garlic. 2. Cook pasta. 3. Combine with Alfredo sauce and Parmesan. 4. Serve with garlic bread.",
+                "Rating": 4.7
+            }
+        ]
+    },
+    {
+        "Chef_ID": 101,
+        "Recipes": [
+            {
+                "Recipe_ID": 4,
+                "Recipe_Name": "Chocolate Fondue",
+                "Ingredients": ["Chocolate chips", "Heavy cream", "Fruit for dipping"],
+                "Recipe_Method": "1. Melt chocolate with heavy cream. 2. Serve with a variety of fruits for dipping.",
+                "Rating": 4.6
+            },
+            {
+                "Recipe_ID": 5,
+                "Recipe_Name": "Beef Stroganoff",
+                "Ingredients": ["Beef strips", "Onion", "Mushrooms", "Sour cream", "Paprika", "Egg noodles"],
+                "Recipe_Method": "1. Sauté beef, onion, and mushrooms. 2. Add sour cream and paprika. 3. Serve over cooked egg noodles.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 6,
+                "Recipe_Name": "Lemon Bars",
+                "Ingredients": ["Butter", "Flour", "Powdered sugar", "Eggs", "Lemon juice", "Lemon zest"],
+                "Recipe_Method": "1. Make a crust with butter, flour, and powdered sugar. 2. Mix eggs, lemon juice, and zest for the filling. 3. Bake and dust with powdered sugar.",
+                "Rating": 4.8
+            }
+        ]
+    },
+    {
+        "Chef_ID": 102,
+        "Recipes": [
+            {
+                "Recipe_ID": 7,
+                "Recipe_Name": "Chicken Alfredo",
+                "Ingredients": ["Chicken breast", "Fettuccine pasta", "Alfredo sauce", "Parmesan cheese", "Garlic", "Butter"],
+                "Recipe_Method": "1. Sauté chicken and garlic. 2. Cook pasta. 3. Combine with Alfredo sauce and Parmesan. 4. Serve with garlic bread.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 8,
+                "Recipe_Name": "Baked Ziti",
+                "Ingredients": ["Ziti pasta", "Ricotta cheese", "Mozzarella cheese", "Marinara sauce", "Parmesan cheese"],
+                "Recipe_Method": "1. Cook ziti. 2. Layer with ricotta, mozzarella, and marinara. 3. Bake until bubbly. 4. Top with Parmesan.",
+                "Rating": 4.6
+            },
+            {
+                "Recipe_ID": 9,
+                "Recipe_Name": "Steak with Chimichurri",
+                "Ingredients": ["Steak", "Parsley", "Garlic", "Olive oil", "Red wine vinegar", "Red pepper flakes"],
+                "Recipe_Method": "1. Grill steak. 2. Blend parsley, garlic, olive oil, vinegar, and red pepper flakes for chimichurri sauce. 3. Serve with sauce.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 10,
+                "Recipe_Name": "Garlic Butter Shrimp",
+                "Ingredients": ["Shrimp", "Butter", "Garlic", "Lemon juice", "Parsley", "Salt"],
+                "Recipe_Method": "1. Sauté shrimp with garlic and butter. 2. Add lemon juice, parsley, and salt. 3. Serve with crusty bread.",
+                "Rating": 4.7
+            }
+        ]
+    },
+    {
+        "Chef_ID": 103,
+        "Recipes": [
+            {
+                "Recipe_ID": 11,
+                "Recipe_Name": "Chicken Tenders",
+                "Ingredients": ["Chicken tenders", "Flour", "Egg", "Breadcrumbs", "Seasonings", "Salt"],
+                "Recipe_Method": "1. Coat chicken tenders in flour, egg, breadcrumbs, and seasonings. 2. Fry until golden brown. 3. Serve with dipping sauce.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 12,
+                "Recipe_Name": "Apple Pie",
+                "Ingredients": ["Apples", "Pie crust", "Sugar", "Cinnamon", "Butter", "Lemon juice"],
+                "Recipe_Method": "1. Slice apples and mix with sugar, cinnamon, and lemon juice. 2. Fill pie crust. 3. Dot with butter. 4. Bake until golden.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 13,
+                "Recipe_Name": "Beef Stew",
+                "Ingredients": ["Beef chunks", "Carrots", "Potatoes", "Onion", "Beef broth", "Red wine", "Thyme", "Salt"],
+                "Recipe_Method": "1. Brown beef. 2. Add vegetables, beef broth, red wine, thyme, and salt. 3. Simmer with salt. 4. Serve hearty beef stew.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 14,
+                "Recipe_Name": "Chocolate Chip Cookies",
+                "Ingredients": ["Flour", "Butter", "Sugar", "Chocolate chips", "Egg", "Vanilla extract", "Salt"],
+                "Recipe_Method": "1. Cream butter and sugar. 2. Add egg and vanilla extract. 3. Mix in flour, chocolate chips, and salt. 4. Bake into cookies.",
+                "Rating": 4.6
+            }
+        ]
+    },
+    {
+        "Chef_ID": 104,
+        "Recipes": [
+            {
+                "Recipe_ID": 15,
+                "Recipe_Name": "Spaghetti Carbonara",
+                "Ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Black pepper", "Salt"],
+                "Recipe_Method": "1. Boil spaghetti until al dente. 2. In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper. 3. Cook pancetta. 4. Toss cooked pasta with egg mixture and pancetta. 5. Serve hot.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 16,
+                "Recipe_Name": "Chicken Stir-Fry",
+                "Ingredients": ["Chicken breast", "Vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+                "Recipe_Method": "1. Stir-fry chicken and vegetables. 2. Add soy sauce, ginger, and garlic. 3. Drizzle with sesame oil. 4. Serve with rice.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 17,
+                "Recipe_Name": "Creamy Tomato Soup",
+                "Ingredients": ["Tomatoes", "Onion", "Garlic", "Basil", "Cream", "Salt", "Pepper"],
+                "Recipe_Method": "1. Sauté onion and garlic. 2. Add tomatoes, basil, salt, and pepper. 3. Blend and add cream. 4. Serve hot.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 18,
+                "Recipe_Name": "Cheesecake",
+                "Ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Eggs", "Vanilla extract", "Lemon juice"],
+                "Recipe_Method": "1. Mix cream cheese, sugar, eggs, vanilla extract, and lemon juice. 2. Pour into a graham cracker crust. 3. Bake until set. 4. Chill before serving.",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "Chef_ID": 105,
+        "Recipes": [
+            {
+                "Recipe_ID": 19,
+                "Recipe_Name": "Vegetable Stir-Fry",
+                "Ingredients": ["Mixed vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil", "Salt", "Pepper"],
+                "Recipe_Method": "1. Stir-fry mixed vegetables. 2. Add soy sauce, ginger, garlic, sesame oil, salt, and pepper. 3. Serve with rice.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 20,
+                "Recipe_Name": "Blueberry Muffins",
+                "Ingredients": ["Flour", "Blueberries", "Sugar", "Egg", "Milk", "Butter", "Baking powder"],
+                "Recipe_Method": "1. Mix flour, sugar, and baking powder. 2. Add egg, milk, and melted butter. 3. Gently fold in blueberries. 4. Bake until golden.",
+                "Rating": 4.6
+            },
+            {
+                "Recipe_ID": 21,
+                "Recipe_Name": "Spicy Tofu Stir-Fry",
+                "Ingredients": ["Tofu", "Mixed vegetables", "Soy sauce", "Sriracha", "Ginger", "Garlic", "Sesame oil"],
+                "Recipe_Method": "1. Stir-fry tofu and mixed vegetables. 2. Add soy sauce, Sriracha, ginger, garlic, and sesame oil. 3. Serve with rice.",
+                "Rating": 4.7
+            }
+        ]
+    },
+
+    {
+        "Chef_ID": 106,
+        "Recipes": [
+            {
+                "Recipe_ID": 22,
+                "Recipe_Name": "Beef Stew",
+                "Ingredients": ["Beef chunks", "Carrots", "Potatoes", "Onion", "Beef broth", "Red wine", "Thyme", "Salt"],
+                "Recipe_Method": "1. Brown beef. 2. Add vegetables, beef broth, red wine, thyme, and salt. 3. Simmer with salt. 4. Serve hearty beef stew.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 23,
+                "Recipe_Name": "Chocolate Chip Cookies",
+                "Ingredients": ["Flour", "Butter", "Sugar", "Chocolate chips", "Egg", "Vanilla extract", "Salt"],
+                "Recipe_Method": "1. Cream butter and sugar. 2. Add egg and vanilla extract. 3. Mix in flour, chocolate chips, and salt. 4. Bake into cookies.",
+                "Rating": 4.6
+            },
+            {
+                "Recipe_ID": 24,
+                "Recipe_Name": "Beef Stew",
+                "Ingredients": ["Beef chunks", "Carrots", "Potatoes", "Onion", "Beef broth", "Red wine", "Thyme", "Salt"],
+                "Recipe_Method": "1. Brown beef. 2. Add vegetables, beef broth, red wine, thyme, and salt. 3. Simmer with salt. 4. Serve hearty beef stew.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 25,
+                "Recipe_Name": "Chocolate Chip Cookies",
+                "Ingredients": ["Flour", "Butter", "Sugar", "Chocolate chips", "Egg", "Vanilla extract", "Salt"],
+                "Recipe_Method": "1. Cream butter and sugar. 2. Add egg and vanilla extract. 3. Mix in flour, chocolate chips, and salt. 4. Bake into cookies.",
+                "Rating": 4.6
+            }
+        ]
+    },
+    {
+        "Chef_ID": 107,
+        "Recipes": [
+            {
+                "Recipe_ID": 26,
+                "Recipe_Name": "Spaghetti Carbonara",
+                "Ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Black pepper", "Salt"],
+                "Recipe_Method": "1. Boil spaghetti until al dente. 2. In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper. 3. Cook pancetta. 4. Toss cooked pasta with egg mixture and pancetta. 5. Serve hot.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 27,
+                "Recipe_Name": "Chicken Stir-Fry",
+                "Ingredients": ["Chicken breast", "Vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+                "Recipe_Method": "1. Stir-fry chicken and vegetables. 2. Add soy sauce, ginger, and garlic. 3. Drizzle with sesame oil. 4. Serve with rice.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 28,
+                "Recipe_Name": "Spaghetti Carbonara",
+                "Ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Black pepper", "Salt"],
+                "Recipe_Method": "1. Boil spaghetti until al dente. 2. In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper. 3. Cook pancetta. 4. Toss cooked pasta with egg mixture and pancetta. 5. Serve hot.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 29,
+                "Recipe_Name": "Chicken Stir-Fry",
+                "Ingredients": ["Chicken breast", "Vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+                "Recipe_Method": "1. Stir-fry chicken and vegetables. 2. Add soy sauce, ginger, and garlic. 3. Drizzle with sesame oil. 4. Serve with rice.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 30,
+                "Recipe_Name": "Spaghetti Carbonara",
+                "Ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Black pepper", "Salt"],
+                "Recipe_Method": "1. Boil spaghetti until al dente. 2. In a bowl, whisk eggs, Parmesan cheese, salt, and black pepper. 3. Cook pancetta. 4. Toss cooked pasta with egg mixture and pancetta. 5. Serve hot.",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "Chef_ID": 108,
+        "Recipes": [
+            {
+                "Recipe_ID": 31,
+                "Recipe_Name": "Creamy Tomato Soup",
+                "Ingredients": ["Tomatoes", "Onion", "Garlic", "Basil", "Cream", "Salt", "Pepper"],
+                "Recipe_Method": "1. Sauté onion and garlic. 2. Add tomatoes, basil, salt, and pepper. 3. Blend and add cream. 4. Serve hot.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 32,
+                "Recipe_Name": "Cheesecake",
+                "Ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Eggs", "Vanilla extract", "Lemon juice"],
+                "Recipe_Method": "1. Mix cream cheese, sugar, eggs, vanilla extract, and lemon juice. 2. Pour into a graham cracker crust. 3. Bake until set. 4. Chill before serving.",
+                "Rating": 4.9
+            },
+            {
+                "Recipe_ID": 33,
+                "Recipe_Name": "Creamy Tomato Soup",
+                "Ingredients": ["Tomatoes", "Onion", "Garlic", "Basil", "Cream", "Salt", "Pepper"],
+                "Recipe_Method": "1. Sauté onion and garlic. 2. Add tomatoes, basil, salt, and pepper. 3. Blend and add cream. 4. Serve hot.",
+                "Rating": 4.8
+            },
+            {
+                "Recipe_ID": 34,
+                "Recipe_Name": "Cheesecake",
+                "Ingredients": ["Graham cracker crust", "Cream cheese", "Sugar", "Eggs", "Vanilla extract", "Lemon juice"],
+                "Recipe_Method": "1. Mix cream cheese, sugar, eggs, vanilla extract, and lemon juice. 2. Pour into a graham cracker crust. 3. Bake until set. 4. Chill before serving.",
+                "Rating": 4.9
+            }
+        ]
+    },
+    {
+        "Chef_ID": 109,
+        "Recipes": [
+            {
+                "Recipe_ID": 35,
+                "Recipe_Name": "Vegetable Stir-Fry",
+                "Ingredients": ["Mixed vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil", "Salt", "Pepper"],
+                "Recipe_Method": "1. Stir-fry mixed vegetables. 2. Add soy sauce, ginger, garlic, sesame oil, salt, and pepper. 3. Serve with rice.",
+                "Rating": 4.7
+            },
+            {
+                "Recipe_ID": 36,
+                "Recipe_Name": "Blueberry Muffins",
+                "Ingredients": ["Flour", "Blueberries", "Sugar", "Egg", "Milk", "Butter", "Baking powder"],
+                "Recipe_Method": "1. Mix flour, sugar, and baking powder. 2. Add egg, milk, and melted butter. 3. Gently fold in blueberries. 4. Bake until golden.",
+                "Rating": 4.6
+            },
+            {
+                "Recipe_ID": 37,
+                "Recipe_Name": "Vegetable Stir-Fry",
+                "Ingredients": ["Mixed vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil", "Salt", "Pepper"],
+                "Recipe_Method": "1. Stir-fry mixed vegetables. 2. Add soy sauce, ginger, garlic, sesame oil, salt, and pepper. 3. Serve with rice.",
+                "Rating": 4.7
+            }
+        ]
+    }
+]
