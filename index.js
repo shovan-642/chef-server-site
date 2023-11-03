@@ -24,11 +24,16 @@ app.get('/chef_recipes/:id', (req, res)=>{
     const id = req.params.id;
     const selectedRecipe = chefRecipe.find(n=> n.Chef_ID == id);
     res.send(selectedRecipe)
-    console.log(id)
 })
 
 app.get('/chef_portfolio', (req, res)=>{
     res.send(chefPortfolio)
+})
+
+app.get('/chef_portfolio/:id', (req, res)=> {
+    const id = req.params.id;
+    const selectedChef = chefPortfolio.find(n=> n.id == id);
+    res.send(selectedChef)
 })
 
 app.listen(port, ()=>{
